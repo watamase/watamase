@@ -1,4 +1,4 @@
-![HEADER](https://github.com/watamase/watamase/blob/main/Data/Image.png)
+![HEADER](https://github.com/watamase/watamase/blob/main/Data/Header.png)
 
 ### Programming languages and technologies
 ![VISUAL STUDIO](https://img.shields.io/badge/VISUAL_STUDIO-000000?style=for-the-badge&logo=visualstudio&logoColor=ffffff)
