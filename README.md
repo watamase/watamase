@@ -11,4 +11,4 @@
 
 ### Contact
 [![VK](https://img.shields.io/badge/ВКОНТАКТЕ-000000?style=for-the-badge&logo=vk&logoColor=ffffff)](https://vk.com/watamase/)
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/watamase_public/)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/WatamasePublic/)
